@@ -3,8 +3,7 @@
 // 
 // 0 = Bomb
 // 1 - 8 = number of surrounding bombs
-// 9 = flag
-// 10 = no bombs around
+// 9 = no surrounding bombs
 */
 
 #include <raylib.h>
